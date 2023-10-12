@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Shailendra Ahir. I work as a software engineer during the day. At night, I sleep ;) Just kidding - I work on my side project to help my friend at his business.
+I'm Shailendra Ahir. I work as a software engineer during the day. At night, I sleep ;) Just kidding - I work on my side project to keep my skills up to date.
 
 
 - 🔭 I’m currently working at AEPL
